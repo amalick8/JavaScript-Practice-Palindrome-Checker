@@ -5,7 +5,7 @@ A simple web app that lets users check if a word, phrase, or sentence is a **pal
 ---
 
 ## 🚀 Live Demo
-👉 [Click here to try it out]([https://amalick8.github.io/Palindrome-Checker-Project/](https://amalick8.github.io/Palindrome-Checker-Project/])  
+👉 [Click here to try it out](https://amalick8.github.io/Palindrome-Checker-Project/](https://amalick8.github.io/Palindrome-Checker-Project/)  
 
 ---
 
