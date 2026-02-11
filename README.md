@@ -5,7 +5,7 @@ A simple web app that lets users check if a word, phrase, or sentence is a **pal
 ---
 
 ## 🚀 Live Demo
-👉 [Click here to try it out](https://amalick8.github.io/Palindrome-Checker-Project/)
+👉 [Click here to try it out](https://amalick8.github.io/JavaScript-Practice-Palindrome-Checker/)
 
 
 ---
@@ -42,4 +42,4 @@ Examples:
 ## 🛠️ How to Run Locally
 1. Clone this repository:
    ```bash
-   git clone https://github.com/amalick8/Palindrome-Checker-Project.git
+   git clone https://github.com/amalick8/JavaScript-Practice-Palindrome-Checker.git
